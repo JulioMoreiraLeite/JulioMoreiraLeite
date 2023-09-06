@@ -42,6 +42,7 @@
  <img align="center" alt="Python" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="React" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="NextJs" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+ <br>
   <img align="center" alt="NodeJs" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ts" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
