@@ -39,11 +39,15 @@
   <img align="center" alt="HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Python" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="React" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="NextJs" height="55" width="65" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="NodeJs" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ts" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
  <img align="center" alt="Figma" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <img align="center" alt="Git" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="MySQL" height="55" width="65" src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg">
+ 
 </div>
  
