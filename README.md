@@ -38,6 +38,6 @@
 </h2>
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,js,react,ts,nextjs,py,nodejs,git,github,figma">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,js,react,ts,nextjs,py,nodejs,php,laravel,mysql,git,github">
 </div>
  
