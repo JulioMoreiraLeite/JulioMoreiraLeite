@@ -26,7 +26,7 @@
 
  <ul align="left" style="liststyle : none"> 
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9pMGdqZXFmY3BjMGdsY3EzN3JrMXA1dWl3YmR1ZzBweXBwNXJneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" height="200" width="190" align="right" alt="Formando img"/>
-  <li> 20y and from Bento Gonçalves, Brasil;</li>
+  <li> 21y and from Bento Gonçalves, Brasil;</li>
   <li> Working with JavaScript, React and React Native;</li>
   <li> I also have knowledge in Php and MySql;</li>
  </ul>
